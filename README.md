@@ -16,7 +16,7 @@
   <h1>Howdy :relaxed:</h1>
 </div>
 
-### :speak_no_evil: &nbsp;About me :
+### About me :
 - :computer: Aspiring Software Engineer with a love for the web from Clarkson University
 
 - :closed_book: Currently learning React
