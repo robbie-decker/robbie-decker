@@ -16,7 +16,7 @@
   <h1>Howdy :relaxed:</h1>
 </div>
 
-### About me :
+### 👤 About me :
 - :computer: Aspiring Software Engineer with a love for the web from Clarkson University
 
 - :closed_book: Currently learning React
@@ -31,7 +31,7 @@
 
 ---
 
-### :wrench: &nbsp;Languages and Tools : 
+### 🔧 Languages and Tools : 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50px" height="50px" alt="JavaScript" title="JavaScript"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="50px" height="50px" alt="NodeJS" title="NodeJS"/>
@@ -48,7 +48,7 @@
 
 ---
 
-### :chart_with_upwards_trend: &nbsp;My Stats:
+### 📈 &nbsp;My Stats:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=robbie-decker&theme=dark" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robbie-decker&layout=compact&theme=dark" />
 
