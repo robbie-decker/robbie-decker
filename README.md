@@ -17,7 +17,7 @@
 </div>
 
 ### 👤 About me :
-- :computer: Aspiring Software Engineer with a love for the web from Clarkson University
+- :computer: Software Engineer with a love for the web from Clarkson University
 
 - :closed_book: Currently learning React
 
